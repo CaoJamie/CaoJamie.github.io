@@ -5,10 +5,21 @@
     <url>%2F2018%2F07%2F15%2FHello-World!%2F</url>
     <content type="text"><![CDATA[Hello WorldMy History of Hello World: Java: 2017/31234public static void main(string args[])&#123; System.out.println("Hello World!"); return 0;&#125; C++: 2017/712345#include &lt;iostream&gt;int main()&#123; std::cout&lt;&lt;"Hello World!"; return 0;&#125; C: 2017/712345#include &lt;stdio.h&gt;int main()&#123; printf("Hello World!"); return 0;&#125; Javascript: 2017/71console.log("Hello World!") Python: 2017/81print("Hello World!") Matlab: 2017/91fprintf ("Hello World!") R: 2018/712helloWorld &lt;- "Hello World!"print(helloWorld) $\kappa - 0$$EOF]]></content>
       <categories>
-        <category>random.randomthoughts()</category>
+        <category>random.randomThoughts()</category>
       </categories>
       <tags>
         <tag>Hello World</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title><![CDATA[Set Up Your Github Blogs]]></title>
+    <url>%2F2018%2F07%2F15%2FSet-Up-Your-Blog%2F</url>
+    <content type="text"><![CDATA[Set Up Your Github Blogs with HexoBasically github provided the personal pages which can host static webpage, and this is exactly the reason why I would try on the it.]]></content>
+      <categories>
+        <category>time.spendOnTinkering()</category>
+      </categories>
+      <tags>
+        <tag>Blog Setup</tag>
       </tags>
   </entry>
 </search>
